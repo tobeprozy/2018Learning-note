@@ -13,6 +13,10 @@
 
 http://www.bilibili.com/video/av10475153?share_medium=android&share_source=copy_link&bbid=545ECE16-BF97-4136-8AE4-6CC07ED93A7F101721infoc&ts=1532346736295
 
+### 如何在Github Pages搭建自己写的页面？包含了本地上传教程
+
+https://www.cnblogs.com/lijiayi/p/githubpages.html
+
 
 # 关于Altium designed
 ## 2018/7/22  Altium designed教程
