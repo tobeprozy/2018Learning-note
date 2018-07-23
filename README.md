@@ -51,6 +51,9 @@ https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 
 5.Learning Python以及更多
 
+## 2018/7/24 python
+python文本教程
+http://www.runoob.com/python/python-basic-syntax.html
 
 # 关于Stack Overflow
 ## 2018/7/23 开始接触stackoverflow
