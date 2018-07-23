@@ -41,7 +41,7 @@ https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 
 五个资料
 
-1.www.jisuanke.com 与 www.codecademy.com
+1.www.jisuanke.com （付费网站）与 www.codecademy.com
 
 2.Numpy Beginner's Guinde 2nd 与 Think Python
 
