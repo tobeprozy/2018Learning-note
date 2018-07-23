@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Learning prozy Pages
 
-You can use the [editor on GitHub](https://github.com/tobeprozy/learning-note/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 2018/7/23   github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在B站学习了github的使用
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+http://www.bilibili.com/video/av10475153?share_medium=android&share_source=copy_link&bbid=545ECE16-BF97-4136-8AE4-6CC07ED93A7F101721infoc&ts=1532346736295
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
