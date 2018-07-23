@@ -1,7 +1,6 @@
 ## Welcome to Learning prozy Pages  
-(https://tobeprozy.github.io/learning-note/).
 
-
+https://tobeprozy.github.io/learning-note/
 
 # 关于项目
 ## 2018/7/23  mind control
@@ -28,9 +27,9 @@ https://blog.csdn.net/jiaojsun/article/details/76341379
 ## 2018/7/22  Altium designed教程
 
 ### 在B站学习了利用AD17绘制89C51,并生成了自己的library，已上传至NXP 项目文件中
-```
+
 http://www.bilibili.com/video/av27266417?share_medium=android&share_source=qq&bbid=545ECE16-BF97-4136-8AE4-6CC07ED93A7F101721infoc&ts=1532347561816
-```
+
 
 
 ## Header 2
