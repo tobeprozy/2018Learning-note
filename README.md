@@ -32,9 +32,12 @@ http://www.bilibili.com/video/av27266417?share_medium=android&share_source=qq&bb
 
 
 
-## Header 2
-### Header 3
+# 关于python
+## 2018/7/23
 
+### 在B站开始学习oython
+
+https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 - Bulleted
 - List
 
