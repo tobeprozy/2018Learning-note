@@ -39,6 +39,13 @@ http://www.bilibili.com/video/av27266417?share_medium=android&share_source=qq&bb
 
 https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 
+五个资料
+1.www.jisuanke.com 与 www.codecademy.com
+2.Numpy Beginner's Guinde 2nd 与 Think Python
+3.Python For Date Analysis 与 Flash Development
+4.Machine Learning in Action
+5.Learning Python以及更多
+
 
 # 关于Stack Overflow
 ## 2018/7/23 开始接触stackoverflow
