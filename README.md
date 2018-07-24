@@ -55,6 +55,16 @@ https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 python文本教程
 http://www.runoob.com/python/python-basic-syntax.html
 
+
+# 关于java
+## 2018/7/24 sublime text 3
+
+首先安装 Packages Control 
+
+1.1 进入sublime页面，按住ctrl+shift+P，然后会出来一个框，在这个的里面直接输入install，安装选择install Package Control安装install Package 
+
+2.1 在preferences 里面有一个Packages Control 打开，选择install Package，安装完成之后会有一个弹窗，在里面输入ChineseLocalization，回车，等待
+
 # 关于Stack Overflow
 ## 2018/7/23 开始接触stackoverflow
 
