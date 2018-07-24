@@ -52,8 +52,8 @@ https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 5.Learning Python以及更多
 
 ## 2018/7/24 python
-python文本教程
-http://www.runoob.com/python/python-basic-syntax.html
+python菜鸟教程
+http://www.runoob.com/manual/pythontutorial3/docs/html/controlflow.html
 
 
 # 关于java
