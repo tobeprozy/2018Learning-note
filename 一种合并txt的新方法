@@ -1,0 +1,5 @@
+新建一个文本输入copy  *.txt  all.txt 
+
+保存到要合并的txt文本的文件夹里，名字为“all.bat”
+
+点击all.bat,此时，文件夹内所有的txt文件依次合并到all.txt内
