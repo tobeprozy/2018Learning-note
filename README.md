@@ -2,6 +2,15 @@
 
 https://tobeprozy.github.io/learning-note/
 
+# STM32
+
+## 2018/7/25
+
+1.学习了STM32串口通信
+
+2.学习了STM32平台搭建
+
+3.学习了STM32端口使用
 
 # 关于百度云
 
