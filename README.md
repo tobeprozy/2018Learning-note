@@ -45,15 +45,26 @@ https://www.cnblogs.com/lijiayi/p/githubpages.html
 https://blog.csdn.net/jiaojsun/article/details/76341379
 
 
+## 2018/7/26   github
+
+熟练掌握了使用github查询，上传，创建和管理项目
 
 # 关于Altium designed
-## 2018/7/22  Altium designed教程
+## 2018/7/22  Altium designer教程
 
 在B站学习了利用AD17绘制89C51,并生成了自己的library，已上传至NXP 项目文件中
 
 http://www.bilibili.com/video/av27266417?share_medium=android&share_source=qq&bbid=545ECE16-BF97-4136-8AE4-6CC07ED93A7F101721infoc&ts=1532347561816
 
+## 2018/7/26  Altium designer练习
 
+1.学会只用Altium designer绘制元件库，封装库，原理图，pcb。
+
+2.学会在pcb连线，打孔，敷铜，调整布线规则。
+
+3.学会使用运行脚本添加位图，生成了矿大logo 封装图
+
+4.绘制了无线接收器
 
 # 关于python
 ## 2018/7/23 python
@@ -94,23 +105,3 @@ http://www.runoob.com/manual/pythontutorial3/docs/html/controlflow.html
 Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。在问题页面，不会弹出任何广告，销售信息，JavaScript 窗口等。
 
 https://stackoverflow.com/
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tobeprozy/learning-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
