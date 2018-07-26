@@ -2,9 +2,9 @@
 
 https://tobeprozy.github.io/learning-note/
 
-# STM32
+# 关于STM32
 
-## 2018/7/25
+## 2018/7/25  初步学习
 
 1.学习了STM32串口通信
 
