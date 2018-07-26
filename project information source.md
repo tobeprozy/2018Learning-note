@@ -6,7 +6,7 @@
 
 ## 卖家提供资料
 
-### Crazepony开源四旋翼四轴飞行器
+### Crazepony开源四旋翼四轴飞行器：
 一代Crazepony开源四轴飞行器能实现的功能： 
 
 亲，最初使用需要把油门拉倒最下面再按解锁键，解锁无人机
@@ -31,5 +31,5 @@ Crazpony 常见的一些问题（FAQ）:http://www.crazepony.com/faq.html
 
 Crazpony 书籍：http://www.crazepony.com/book/
 
-### TGAM意念控制资料
-链接:https://pan.baidu.com/s/1RvIH3o4Y1x1Yw2MnclsKxA 密码:s6jv
+### TGAM意念控制资料：
+链接:https://pan.baidu.com/s/1RvIH3o4Y1x1Yw2MnclsKxA 密码:s6jv
