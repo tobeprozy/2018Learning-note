@@ -14,7 +14,7 @@ https://tobeprozy.github.io/learning-note/
 
 # 关于百度云
 
-## 2018/7/24
+## 2018/7/24  文件整理
 
 1.新增张飞电子技术资料，放于电子学文件中
 
@@ -25,6 +25,10 @@ https://tobeprozy.github.io/learning-note/
 ## 2018/7/23  mind control
 
 关注、收藏和克隆了国外一些关于意念控制机器人、无人机等其它应用的项目信息
+
+## 2018/7/26 资料购买
+
+购买了开源四旋翼，将资料地址上传到了github-->project information resource.md文件中
 
 # 关于github
 ## 2018/7/23   github
