@@ -26,9 +26,23 @@ https://tobeprozy.github.io/learning-note/
 
 关注、收藏和克隆了国外一些关于意念控制机器人、无人机等其它应用的项目信息
 
+
 ## 2018/7/26 资料购买
 
 购买了开源四旋翼，将资料地址上传到了github-->project information resource.md文件中
+
+## 2018/7/27 资料整理
+
+1.学习了ardunio的使用方法，并做了学习笔记，整理了利用ardunio做无人机的代码和关键知识
+
+https://www.arduino.cn/thread-11353-1-1.html
+
+https://blog.csdn.net/seek97/article/details/81253959
+
+2.整理了利用ardunio读取脑电信号的程序
+
+https://blog.csdn.net/seek97/article/details/81254692
+
 
 # 关于github
 ## 2018/7/23   github
@@ -88,6 +102,11 @@ https://www.bilibili.com/video/av4404866?from=search&seid=9216600538513729994
 ## 2018/7/24 python
 python菜鸟教程
 http://www.runoob.com/manual/pythontutorial3/docs/html/controlflow.html
+
+## 2018/7/27 python
+
+学习了python 学习笔记元组、数列、字典和概念，并整理了元组的学习笔记
+https://blog.csdn.net/seek97/article/details/81231091
 
 
 # 关于java
