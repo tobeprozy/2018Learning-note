@@ -43,7 +43,7 @@ https://blog.csdn.net/seek97/article/details/81253959
 
 https://blog.csdn.net/seek97/article/details/81254692
 
-## 2018/7/27 资料整理、算法学习
+## 2018/7/28 资料整理、算法学习
 1.整理了与项目最相关的软件教程和论文
 
 2.修改了读取脑控信息的头文件和测试程序，找到了stm32蓝牙串口通信程序,存放到项目最相关文件夹中
