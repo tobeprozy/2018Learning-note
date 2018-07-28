@@ -43,6 +43,15 @@ https://blog.csdn.net/seek97/article/details/81253959
 
 https://blog.csdn.net/seek97/article/details/81254692
 
+## 2018/7/27 资料整理、算法学习
+1.整理了与项目最相关的软件教程和论文
+
+2.修改了读取脑控信息的头文件和测试程序，找到了stm32蓝牙串口通信程序
+
+3.上传了两个读取脑控信息的代码至项目文件中
+
+4.学习了傅里叶算法和小波算法
+
 
 # 关于github
 ## 2018/7/23   github
