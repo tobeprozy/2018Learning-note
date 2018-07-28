@@ -46,13 +46,17 @@ https://blog.csdn.net/seek97/article/details/81254692
 ## 2018/7/27 资料整理、算法学习
 1.整理了与项目最相关的软件教程和论文
 
-2.修改了读取脑控信息的头文件和测试程序，找到了stm32蓝牙串口通信程序
+2.修改了读取脑控信息的头文件和测试程序，找到了stm32蓝牙串口通信程序,存放到项目最相关文件夹中
 
 3.上传了两个读取脑控信息的代码至项目文件中
 
+https://github.com/tobeprozy/mind-control-Drones/blob/master/%E6%89%93%E5%8D%B0%E6%8E%A5%E6%94%B6%E5%88%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%92%8C%E8%AF%BB%E5%8F%96thinkgear%E6%95%B0%E6%8D%AE.c
+
 4.学习了傅里叶算法和小波算法
 
+https://blog.csdn.net/qq_20823641/article/details/51829981
 
+https://blog.csdn.net/seek97/article/details/81266223
 # 关于github
 ## 2018/7/23   github
 
