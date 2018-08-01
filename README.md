@@ -23,7 +23,7 @@ https://tobeprozy.github.io/learning-note/
 
 1.学习了利用JLINK进行软件调试，硬件调试，串口输出，变量显示，端口状态检测等功能
 
-2.学习了利用HC-05进行与PC的通信，并建立了手机，蓝牙，电脑三者之间的通信
+2.学习了利用HC-05进行与PC的通信
 
 ## 2018/7/31  继续学习
 
@@ -36,6 +36,14 @@ https://blog.csdn.net/seek97/article/details/81322106
 3.TGAM学习记录
 
 https://blog.csdn.net/seek97/article/details/81328542
+
+## 2018/8/1  继续学习
+
+1.实现HC-05 PC HC-05双向通信
+
+https://blog.csdn.net/seek97/article/details/81333701
+
+
 
 # 关于百度云
 
