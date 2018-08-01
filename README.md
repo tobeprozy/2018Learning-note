@@ -25,6 +25,18 @@ https://tobeprozy.github.io/learning-note/
 
 2.学习了利用HC-05进行与PC的通信，并建立了手机，蓝牙，电脑三者之间的通信
 
+## 2018/7/31  继续学习
+
+1.实现蓝牙与手机的双向通信
+
+https://blog.csdn.net/seek97/article/details/81322106
+
+2.解决MDK5中文乱码、字体修改问题
+
+3.TGAM学习记录
+
+https://blog.csdn.net/seek97/article/details/81328542
+
 # 关于百度云
 
 ## 2018/7/24  文件整理
